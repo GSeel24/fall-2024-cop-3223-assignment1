@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-#define pi=3.14159
+#define pi 3.14159
 
 // x values
 double getx1(){
